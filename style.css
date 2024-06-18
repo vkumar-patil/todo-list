@@ -37,10 +37,12 @@ border-radius: 10px;
 .btn{
     margin-left: 10px; border-radius: 10px;
     padding: 4px;
+    color: blueviolet;
 }
 
 h1{
     margin-left: 80px;
+    text-shadow: red 2px 2px 2px ,yellow 2px 2px 2px ;
 }
 li {
     margin-right: 40px;
@@ -64,4 +66,8 @@ li {
 .thru{
     text-decoration: line-through;
 
+}
+.btn:hover{
+    color: rgb(198, 16, 132);
+    background-color: rgb(21, 203, 235);
 }
