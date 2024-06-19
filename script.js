@@ -31,9 +31,3 @@ Btn.addEventListener("click", () => {
   console.log(STORE);
   ullist.appendChild(li);
 });
-
-// ullist.addEventListener("click", function (e) {
-//   if (e.target.tagName === "li") {
-//     e.target.classList.toggle("thru");
-//   }
-// });
