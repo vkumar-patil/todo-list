@@ -11,6 +11,8 @@ ul li{
     border: solid black 4px;
     position: absolute;top: 20px;left: 300px;
     background-color: bisque;
+border-radius: 100px;
+overflow-y: hidden;
 
 }
 .inputtext{
@@ -31,7 +33,7 @@ body{
 }
 ul{
     
-    
+
 border-radius: 10px;
 }
 .btn{
@@ -50,6 +52,7 @@ li {
     margin: 10px;
     background-color: azure;
     list-style-type: lower-roman;
+    
 }
 .btnclass{
     position: absolute;
